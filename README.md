@@ -1,0 +1,2 @@
+- hitung penggajian untuk bos
+- seeder penggajian per bulan da
